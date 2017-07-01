@@ -9,6 +9,10 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.zip.GZIPInputStream;
 
+/**
+ * 用于下载指定的索引页数
+ * @author JCav
+ */
 public class IndexPageDownloader {
 	int page;
 	public IndexPageDownloader(int p){

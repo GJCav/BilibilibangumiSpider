@@ -6,11 +6,16 @@ package com.jcav;
 @Data
 @Builder
 */
+
+/**
+ * 用来存数据的
+ * @author JCav
+ */
 public class Inf {
-	private long favourite;
-	private String name;
-	private String url;
-	private double count;
+	private long favourite; //追番人数
+	private String name; //名字
+	private String url; //链接
+	private double count; //播放次数
 	
 	public long getFavourite() {
 		return favourite;

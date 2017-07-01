@@ -5,6 +5,11 @@ import org.jsoup.nodes.*;
 
 import java.net.*;
 
+/**
+ * 用于从指定<code>Inf</code>中的URL获取播放次数并填该<code>Inf</code>
+ * @author JCav
+ *
+ */
 public class InfDownloader {
 	private final Inf inf;
 	public InfDownloader(Inf i){

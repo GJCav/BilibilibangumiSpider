@@ -1,5 +1,9 @@
 package com.jcav;
 
+/**
+ * 在使用线程池时组织任务
+ * @author JCav
+ */
 public class InfParserGroup implements Runnable {
 	private final int start, end;
 	public InfParserGroup(int s, int e){

@@ -5,6 +5,11 @@ import java.nio.file.StandardOpenOption;
 import java.util.*;
 import com.google.gson.*;
 
+/**
+ * 从一页的索引中提取信息填充Inf并通过InfDownloader获取播放次数.
+ * @author JCav
+ *
+ */
 public class InfParser {
 	private final int page;
 	
