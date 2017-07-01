@@ -1,0 +1,73 @@
+################################################
+#                                              #
+#              2017/6/30    JCav               #
+#                                              #
+#      Rank  -------------------    排名       #
+#      Favourite  --------------  追番人数     #
+#      Count  ------------------  播放次数     #
+#      URL ---------------------  番剧地址     #
+#                                              #
+# PS:数据可能有较小偏差，因为每时都有人在补番  #
+#                                              #
+################################################
+
+Rank:1
+Name:Re：从零开始的异世界生活
+Favourite:3104832
+Count:140000000
+URL:http://bangumi.bilibili.com/anime/3461
+
+Rank:2
+Name:齐木楠雄的灾难（日播&精选版）
+Favourite:846779
+Count:140000000
+URL:http://bangumi.bilibili.com/anime/5070
+
+Rank:3
+Name:在下坂本，有何贵干？
+Favourite:2502205
+Count:91042000
+URL:http://bangumi.bilibili.com/anime/3450
+
+Rank:4
+Name:食戟之灵
+Favourite:1014103
+Count:78516000
+URL:http://bangumi.bilibili.com/anime/1559
+
+Rank:5
+Name:火影忍者 疾风传
+Favourite:896583
+Count:69291000
+URL:http://bangumi.bilibili.com/anime/3287
+
+Rank:6
+Name:双星之阴阳师
+Favourite:1426877
+Count:67076000
+URL:http://bangumi.bilibili.com/anime/3462
+
+Rank:7
+Name:Fate/stay night [Unlimited Blade Works] 第一季
+Favourite:1418960
+Count:64345000
+URL:http://bangumi.bilibili.com/anime/1586
+
+Rank:8
+Name:斩·赤红之瞳！
+Favourite:815556
+Count:64071000
+URL:http://bangumi.bilibili.com/anime/52
+
+Rank:9
+Name:小林家的龙女仆
+Favourite:2372778
+Count:60037000
+URL:http://bangumi.bilibili.com/anime/5800
+
+Rank:10
+Name:干物妹！小埋
+Favourite:1275703
+Count:55320000
+URL:http://bangumi.bilibili.com/anime/2580
+

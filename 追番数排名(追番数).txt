@@ -1,0 +1,73 @@
+################################################
+#                                              #
+#              2017/6/30    JCav               #
+#                                              #
+#      Rank  -------------------    排名       #
+#      Favourite  --------------  追番人数     #
+#      Count  ------------------  播放次数     #
+#      URL ---------------------  番剧地址     #
+#                                              #
+# PS:数据可能有较小偏差，因为每时都有人在补番  #
+#                                              #
+################################################
+
+Rank:1
+Name:Re：从零开始的异世界生活
+Favourite:3104832
+Count:140000000
+URL:http://bangumi.bilibili.com/anime/3461
+
+Rank:2
+Name:埃罗芒阿老师
+Favourite:2637295
+Count:42903000
+URL:http://bangumi.bilibili.com/anime/5997
+
+Rank:3
+Name:在下坂本，有何贵干？
+Favourite:2502205
+Count:91042000
+URL:http://bangumi.bilibili.com/anime/3450
+
+Rank:4
+Name:小林家的龙女仆
+Favourite:2372778
+Count:60037000
+URL:http://bangumi.bilibili.com/anime/5800
+
+Rank:5
+Name:夏目友人帐 伍
+Favourite:1752012
+Count:27602000
+URL:http://bangumi.bilibili.com/anime/5550
+
+Rank:6
+Name:Re:CREATORS
+Favourite:1595761
+Count:19735000
+URL:http://bangumi.bilibili.com/anime/5998
+
+Rank:7
+Name:食戟之灵 贰之皿
+Favourite:1505044
+Count:40013000
+URL:http://bangumi.bilibili.com/anime/5017
+
+Rank:8
+Name:双星之阴阳师
+Favourite:1426877
+Count:67076000
+URL:http://bangumi.bilibili.com/anime/3462
+
+Rank:9
+Name:甲铁城的卡巴内瑞
+Favourite:1422000
+Count:35857000
+URL:http://bangumi.bilibili.com/anime/3494
+
+Rank:10
+Name:Fate/stay night [Unlimited Blade Works] 第一季
+Favourite:1418960
+Count:64345000
+URL:http://bangumi.bilibili.com/anime/1586
+
